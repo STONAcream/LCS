@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alessandro/CLionProjects/LCS/algorithm.c
+stdlib.h
+-
+string.h
+-
+algorithm.h
+/home/alessandro/CLionProjects/LCS/algorithm.h
+matrice.h
+/home/alessandro/CLionProjects/LCS/matrice.h
+readfile.h
+/home/alessandro/CLionProjects/LCS/readfile.h
+stdio.h
+-
+
+/home/alessandro/CLionProjects/LCS/algorithm.h
+
+/home/alessandro/CLionProjects/LCS/matrice.h
+
+/home/alessandro/CLionProjects/LCS/readfile.h
+

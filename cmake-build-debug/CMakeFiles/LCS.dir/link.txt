@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/LCS.dir/readfile.c.o CMakeFiles/LCS.dir/algorithm.c.o CMakeFiles/LCS.dir/main.c.o CMakeFiles/LCS.dir/matrice.c.o CMakeFiles/LCS.dir/library.c.o -o LCS 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblibrary.c.a CMakeFiles/library.c.dir/matrice.c.o CMakeFiles/library.c.dir/main.c.o CMakeFiles/library.c.dir/readfile.c.o CMakeFiles/library.c.dir/algorithm.c.o
+/usr/bin/ranlib liblibrary.c.a
